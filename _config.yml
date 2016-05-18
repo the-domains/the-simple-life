@@ -1,0 +1,28 @@
+name: The Simple Life
+favicon: null
+layout_spectrum: 0.4603397969622165
+typography_spectrum: 0.7215002351440489
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7100102340336889
+  lightness: 0.6195494965650141
+  saturation: 0.45381644973531365
+  rhythmicContrast: 0.3944112113676965
+purpose: []
